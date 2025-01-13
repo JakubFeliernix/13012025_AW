@@ -1,0 +1,16 @@
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\bin\Debug\net8.0-windows\Przykład 1.exe
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\bin\Debug\net8.0-windows\Przykład 1.deps.json
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\bin\Debug\net8.0-windows\Przykład 1.runtimeconfig.json
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\bin\Debug\net8.0-windows\Przykład 1.dll
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\bin\Debug\net8.0-windows\Przykład 1.pdb
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład_1.Form1.resources
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.csproj.GenerateResource.cache
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.AssemblyInfoInputs.cache
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.AssemblyInfo.cs
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.dll
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\refint\Przykład 1.dll
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.pdb
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\Przykład 1.genruntimeconfig.cache
+C:\Users\Programista\Desktop\13012025-AW_APPdestop\Przykład 1\Przykład 1\obj\Debug\net8.0-windows\ref\Przykład 1.dll

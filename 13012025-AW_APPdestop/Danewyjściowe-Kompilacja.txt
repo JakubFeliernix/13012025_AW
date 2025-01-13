@@ -1,0 +1,6 @@
+﻿Rozpoczęto kompilację o 09:54...
+1>------ Kompilacja rozpoczęta: Projekt: Zadanie, Konfiguracja: Debug Any CPU ------
+1>Trwa pomijanie analizatorów, aby przyspieszyć kompilację. Możesz wykonać polecenie „Kompiluj” lub „Kompiluj ponownie”, aby uruchomić analizatory.
+1>Zadanie -> C:\Users\Programista\Desktop\13012025-AW_APPdestop\Zadanie\Zadanie\bin\Debug\net8.0-windows\Zadanie.dll
+========== Kompilacja: sukces — 1, niepowodzenie — 0, aktualne — 0, pominięto — 0 ==========
+========== Kompilacja – ukończono o 09:54. Czas trwania: 00,484 s ==========
